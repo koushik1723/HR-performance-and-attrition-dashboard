@@ -57,7 +57,8 @@ The dashboard titled **"HR Performance and Attrition Insights"** delivers an exe
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]![Screenshot 2025-06-13 010017](https://github.com/user-attachments/assets/3772adc5-ba16-427b-9ea8-5dd3488bd58d)
+![Dashboard Preview]![Screenshot 2025-06-13 010017]![Screenshot 2025-06-13 101019](https://github.com/user-attachments/assets/05923493-d4ab-493f-bddf-b6c021b0e13d)
+
 
 ---
 
